@@ -1,0 +1,6 @@
+running a test command:
+    python -m unittest <name of test file>
+checking different asserts and their meanings:
+    python3
+    import unittest
+    help(unittest.TestCase.<name of assert method>)
